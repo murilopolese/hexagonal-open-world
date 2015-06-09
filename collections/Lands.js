@@ -1,0 +1,1 @@
+Lands = new Mongo.Collection( 'Lands' );

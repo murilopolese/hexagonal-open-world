@@ -1,0 +1,31 @@
+<head>
+	<title>Hexxxgame</title>
+</head>
+
+<body>
+	{{> loginButtons}}
+	{{#if currentUser}}
+		{{> board}}
+	{{/if}}
+</body>
+
+<template name="board">
+	<h1>{{land.name}} ({{land.position.x}},{{land.position.y}})</h1>
+	{{#each addIndex land.tiles}}
+		<div class="row">
+			{{#each addIndex value}}
+				{{> tile type=value.type customClass=value.customClass x=index y=../index}}
+			{{/each}}
+		</div>
+	{{/each}}
+</template>
+
+<template name="tile">
+	<div class="tile {{type}} {{customClass}}" data-x="{{x}}" data-y="{{y}}">
+		{{> hexagon}}
+	</div>
+</template>
+
+<template name="hexagon">
+
+</template>
