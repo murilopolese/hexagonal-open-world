@@ -4,6 +4,8 @@
 This is the result of a study on hexagonal grids and Meteor pub/sub behaviour: 
 a generative multiplayer open world where you can walk around.
 
+![Screenshot](http://i.imgur.com/AnU3n63.png?1)
+
 ## To do
 
 * Resize rows after render
