@@ -1,8 +1,8 @@
 # Hexagonal grid board
 ------------------------
 
-This is the result of a study on hexagonal grids and Meteor pub/sub behaviour.
-The example is a multiplayer open world where you can walk around.
+This is the result of a study on hexagonal grids and Meteor pub/sub behaviour: 
+a generative multiplayer open world where you can walk around.
 
 ## To do
 
