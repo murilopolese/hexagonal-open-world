@@ -22,6 +22,7 @@
 .row {
 	float: left;
 	clear: both;
+	margin-top: -6px;
 	&:nth-child( 2n ) {
 		margin-left: @tile-size / 2;
 	}
@@ -31,27 +32,35 @@
 	width: @tile-size;
 	height: @tile-size;
 	float: left;
-	background: @grey;
-	&.you {
-		background: @red !important;
+	position: relative;
+	svg {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 50%;
+		left: 50%;
+		overflow: visible;
 	}
-	&.player {
-		background: @purple !important;
+	&.you svg {
+		fill: @red !important;
 	}
-	&.field {
-		background: @light-green;
+	&.player svg {
+		fill: @purple !important;
 	}
-	&.water {
-		background: @blue !important;
+	&.field svg {
+		fill: @light-green;
 	}
-	&.mountain {
-		background: @blue-grey !important;
+	&.water svg {
+		fill: @blue !important;
 	}
-	&.portal {
-		background: @brown;
+	&.mountain svg {
+		fill: @blue-grey !important;
+	}
+	&.portal svg {
+		fill: @brown;
 	}
 }
 
-.tile:hover {
-	background: @lime;
+.tile:hover svg {
+	fill: @lime;
 }
