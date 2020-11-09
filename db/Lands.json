@@ -1,0 +1,331 @@
+/* 1 */
+{
+    "_id" : "XEYtFnYF9TNvLCmTo",
+    "name" : "Dark Frog",
+    "position" : {
+        "x" : 0,
+        "y" : 0
+    },
+    "tiles" : [ 
+        [ 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }
+        ], 
+        [ 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }
+        ], 
+        [ 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }
+        ], 
+        [ 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }
+        ], 
+        [ 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }
+        ], 
+        [ 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }
+        ], 
+        [ 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }
+        ], 
+        [ 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }
+        ], 
+        [ 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }
+        ], 
+        [ 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "water"
+            }, 
+            {
+                "type" : "field"
+            }, 
+            {
+                "type" : "field"
+            }
+        ]
+    ]
+}
